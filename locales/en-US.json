@@ -1,0 +1,14 @@
+{
+  "DISABLED_USER": "Account has been disabled",
+  "EXPIRED_TOKEN": "Token has expired",
+  "FILE_NOT_FOUND": "File not found",
+  "FILE_TOO_LARGE": "File too large",
+  "INVALID_FILE_FORMAT": "Invalid file format",
+  "INVALID_INPUT": "Invalid input",
+  "INVALID_PASSWORD": "Invalid password",
+  "INVALID_TOKEN": "Invalid token",
+  "MISSING_JWT_VALIDATION": "Missing JWT validation",
+  "PERMISSION_DENIED": "Permission denied",
+  "UNACTIVATED_USER": "Account has not been activated",
+  "USER_NOT_FOUND": "User not found"
+}
