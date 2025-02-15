@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "module": "CommonJS",
+    "outDir": "dist",
+    "removeComments": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "target": "ESNext"
+  },
+  "exclude": ["test"]
+}
