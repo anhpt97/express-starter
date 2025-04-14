@@ -1,0 +1,7 @@
+logs
+*.log
+*.lock
+coverage
+node_modules
+.env
+dist
